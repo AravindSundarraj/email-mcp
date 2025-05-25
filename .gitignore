@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Compiled class file
 *.class
 
@@ -57,4 +57,4 @@ build/
 
 ### VS Code ###
 .vscode/
->>>>>>> 1214584 (first commit)
+
