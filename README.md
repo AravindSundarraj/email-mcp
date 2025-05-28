@@ -1,1 +1,1 @@
-# email-mcp
+# email-mcp(Model Context Protocol)
